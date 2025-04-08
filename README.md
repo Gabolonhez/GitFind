@@ -1,3 +1,18 @@
+# Git Find
+![image](https://github.com/user-attachments/assets/9d2adbde-d5b5-492b-a7dc-19d555d1db06)
+
+## 📑 Descrição
+Procura de usuários do Github.
+
+## 🎯 Funcionalidades
+- [x] : Permite pesquisar por usuários do Github, retornando nome, usuário, foto de perfil, descrição e informações de repositórios.
+
+## 💻 Tecnologias
+- `React`
+- `HTML`
+- `CSS`
+- `Javascript`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
