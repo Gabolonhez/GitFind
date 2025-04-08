@@ -39,6 +39,8 @@ button {
     font-size: 18px;
     padding: 10px 30px;
     color: #999999;
+
+    cursor: pointer;
 }
 
 .profile-div {
