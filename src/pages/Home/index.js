@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { Header } from "../../components/Header";
 import background from "../../assets/images/background-github.png";
-import profile from "../../assets/images/Me.png";
 import ItemList from "../../components/ItemList";
 
 
@@ -56,7 +55,7 @@ function App () {
             <div className="repositories">
               <h3>Repositórios</h3>
               {repos.map(repo => (
-                <ItemList title={repo.name} description={repo.description}></ItemList>
+                <ItemList title={repo.name} description={repo.description} link={repo.html_url}></ItemList>
               ))}
             </div>
              ): null }
