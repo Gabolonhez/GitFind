@@ -1,5 +1,5 @@
 # Git Find
-![image](https://github.com/user-attachments/assets/9d2adbde-d5b5-492b-a7dc-19d555d1db06)
+![image](https://github.com/user-attachments/assets/7a423d3b-4797-4e3c-b1f0-e2dd73d52698)
 
 ## 📑 Descrição
 Procura de usuários do Github.
