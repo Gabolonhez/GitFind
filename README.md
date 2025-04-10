@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/7a423d3b-4797-4e3c-b1f0-e2dd73d52698)
 
 ## 📑 Descrição
-Procura de usuários do Github.
+Procura de usuários do Github, retornando informações e repositórios.
 
 ## 🎯 Funcionalidades
 - [x] : Permite pesquisar por usuários do Github, retornando nome, usuário, foto de perfil, descrição e informações de repositórios.
